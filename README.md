@@ -2,7 +2,7 @@
 
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Prem Kantikar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+
 
 I'm a Front End Developer  👨‍💻, Currently working on some exciting projects! 💻🛸
   
@@ -20,7 +20,7 @@ I'm a Front End Developer  👨‍💻, Currently working on some exciting proje
 </p>
 
 
-## Some Stats About Raghav 
+## Some Stats About Prem 
 <p align="center" >
 <img alt="Prem's github stats" src=https://github-readme-stats.vercel.app/api?username=alcatraz69&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=dark"  > </p>
 
