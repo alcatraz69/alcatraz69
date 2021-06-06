@@ -22,5 +22,5 @@ I'm a Front End Developer  👨‍💻, Currently working on some exciting proje
 
 ## Some Stats About Prem 
 <p align="center" >
-<img alt="Prem's github stats" src=https://github-readme-stats.vercel.app/api?username=alcatraz69&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=dark"  > </p>
+<img alt="Prem's github stats" src=https://github-readme-stats.vercel.app/api?username=alcatraz69&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=vue"> </p>
 
