@@ -10,7 +10,7 @@ I'm a Front End Developer  👨‍💻, Currently working on some exciting proje
 - 🤔 I’m looking for learning opportunities
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prkantikar69@gmail.com)](mailto:prkantikar69@gmail.com)
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: Jack of all trades , Master of One ! 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prem-kantikar-849a28131/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="prem_kantikar" height="25" width="25" /></a>&nbsp;&nbsp;
